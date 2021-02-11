@@ -1,0 +1,43 @@
+.carousel-inner{
+	height: 250vh;
+}
+.carousel-caption{
+	top:170px;
+	transform: translateY(-50px);
+	background: rgb(255, 212, 175,0.5);
+	bottom: initial;
+}
+.row{
+	margin-top: : 100px;
+
+}
+.card{
+	margin: 10px;
+}
+footer {
+ background: rgb(32, 48, 77, 0.2);
+ margin-top: 50px;
+ padding: 3%;
+
+}
+.navbar-expand-lg{
+	background: #E9ECEF
+
+}
+button{
+	background: rgb(32, 48, 77, 0.2);
+}
+footer{
+	background: rgb(233, 236, 239, 0.8);
+	color: black;
+	height: 30px;
+	margin-top: -10px;
+	
+}
+.jumbotron{
+	min-height: 450%;
+}
+#imagesize{
+	height: 500px;
+
+}
